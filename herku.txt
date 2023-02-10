@@ -1,0 +1,14 @@
+1. Install heroku
+2. Install Git
+3. check you have everything....
+"heroku --version" ....
+"node --version" .....
+"npm --version" ....
+"git --version"
+4. in the terminal open your file location of newsletter and type heroku login, and then it will as for login
+5. create a Procfile (follow her and also change the port 3000 code)
+6.  after that type "git init"
+7. "git add . "
+8. "git commit"
+9. "heroku create"
+10. "git push heroku master" or "git push heroku main"

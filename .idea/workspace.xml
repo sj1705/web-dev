@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83e553fe-e02b-4df4-a5be-c3e7237af8fb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/REACT/my-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REACT/my-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Secrets - Starting Code/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Secrets - Starting Code/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Secrets - Starting Code/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Secrets - Starting Code/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Secrets - Starting Code/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Secrets - Starting Code/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolistv1 db/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/todolistv1 db/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolistv1 db/views/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/todolistv1 db/views/footer.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolistv1 db/views/list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/todolistv1 db/views/list.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Newsletter-Signup" />
+  </component>
+  <component name="ProjectId" id="2I2K5tUAIk97tXoyK26hZiJPFCX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/web_dev/udemy/web-dev/FruitsProject",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83e553fe-e02b-4df4-a5be-c3e7237af8fb" name="Changes" comment="" />
+      <created>1669374057440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669374057440</updated>
+      <workItem from="1669374062087" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
